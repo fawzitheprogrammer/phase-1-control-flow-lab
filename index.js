@@ -1,6 +1,3 @@
-// Assuming 'helpers.js' provides necessary setup or utilities but not shown here
-// require('./helpers.js'); // Uncomment this in actual code if helpers.js is needed
-
 // scuberGreetingForFeet function
 function scuberGreetingForFeet(feet) {
   if (feet <= 400) {
